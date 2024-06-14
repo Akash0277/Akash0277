@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akash0277
-- 👀 I’m interested in web development
+- 👀 I’m interested in Frontend development development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on designing and development
 - 📫 How to reach me akashverma0277@gmail.com
